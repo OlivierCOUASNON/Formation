@@ -6,3 +6,8 @@ Blo  blo
 Bli bli
 
 
+<<<<<<< HEAD
+=======
+bla bla
+
+>>>>>>> anoA
